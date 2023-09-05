@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jonat\\source\\repos\\I01 - Validador de rangos\\Entidades\\Entidades.csproj": {}
+    "C:\\Users\\barbu\\source\\repos\\C-SHARP-UTN\\Clases y metodos estaticos\\I01 - Validador de rangos\\Entidades\\Entidades.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jonat\\source\\repos\\I01 - Validador de rangos\\Entidades\\Entidades.csproj": {
+    "C:\\Users\\barbu\\source\\repos\\C-SHARP-UTN\\Clases y metodos estaticos\\I01 - Validador de rangos\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jonat\\source\\repos\\I01 - Validador de rangos\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "C:\\Users\\barbu\\source\\repos\\C-SHARP-UTN\\Clases y metodos estaticos\\I01 - Validador de rangos\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "C:\\Users\\jonat\\source\\repos\\I01 - Validador de rangos\\Entidades\\Entidades.csproj",
-        "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jonat\\source\\repos\\I01 - Validador de rangos\\Entidades\\obj\\",
+        "projectPath": "C:\\Users\\barbu\\source\\repos\\C-SHARP-UTN\\Clases y metodos estaticos\\I01 - Validador de rangos\\Entidades\\Entidades.csproj",
+        "packagesPath": "C:\\Users\\barbu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\barbu\\source\\repos\\C-SHARP-UTN\\Clases y metodos estaticos\\I01 - Validador de rangos\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jonat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\barbu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

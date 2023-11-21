@@ -1,0 +1,15 @@
+<Stock>
+  <Item Nombre="Harina" Cantidad="100" />
+  <Item Nombre="Azucar" Cantidad="100" />
+  <Item Nombre="Gelatina" Cantidad="100" />
+  <Item Nombre="Leudantes" Cantidad="100" />
+  <Item Nombre="Almidon" Cantidad="100" />
+  <Item Nombre="Gelificantes" Cantidad="100" />
+  <Item Nombre="Vainilla" Cantidad="50" />
+  <Item Nombre="Chocolate" Cantidad="50" />
+  <Item Nombre="Coco" Cantidad="50" />
+  <Item Nombre="Frutilla" Cantidad="50" />
+  <Item Nombre="Frambuesa" Cantidad="50" />
+  <Item Nombre="Cereza" Cantidad="50" />
+  <Item Nombre="Caramelo" Cantidad="50" />
+</Stock>
